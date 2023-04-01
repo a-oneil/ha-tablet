@@ -1,6 +1,10 @@
 # Home Assistant Raspberry Pi Tablet
 This project is a 7" Raspberry Pi Screen with momentary push buttons to make requests to Home Assistant to turn on/off lights,plugs,etc.
 
+![Front](https://austinoneil.com/aoneil/ha-tablet/-/raw/main/images/Front.jpg)
+
+![Back](https://austinoneil.com/aoneil/ha-tablet/-/raw/main/images/Back.jpg)
+
 ## Pins
 | Left Side      | Right Side      |
 |----------------|----------------|
